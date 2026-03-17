@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+# OS files
+Thumbs.db
+.DS_Store
+# Secrets & tokens
+*.env
+*.key
+*.pem
+*.zip
+Push-toacces*.txt
